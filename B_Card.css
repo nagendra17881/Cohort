@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
+body{
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+    /* font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+}
+
+.card{
+    border: 2px solid lightblue;
+    width: 300px;
+    padding: 10px;
+    border-radius: 16px;
+    margin: 60px auto;
+}
+.center{
+    text-align: center;
+}
+.card-img{
+    width: 100%;
+    border-radius: 16px;
+}
+.card-content{
+    width: 700px;
+    height: 300px;
+    color: white;
+    border-radius: 16px;
+    padding: 100px 120px;
+    margin: 60px auto;
+    border: none;
+    background-color: cadetblue;
+}
+.btn{
+    border: none;
+    background-color: burlywood;
+    color: crimson;
+    border-radius: 20px;
+    padding: 12px;
+    width: 30%;
+    font-size: 25px;
+    margin-top: 22px;
+}
